@@ -1,6 +1,5 @@
 # desafio-qtx
 
-Teste para assistente de informática Qualitex 2017.
 
 # Necessidade:
 
